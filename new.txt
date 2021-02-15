@@ -1,0 +1,1 @@
+adding a new file called new.txt from git command line to see the changes in git revert command.
